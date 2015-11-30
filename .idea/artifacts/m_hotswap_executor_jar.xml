@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="m.hotswap.executor.jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/m_hotswap_executor_jar</output-path>
+    <root id="archive" name="m.hotswap.executor.jar.jar">
+      <element id="dir-copy" path="$PROJECT_DIR$/src/main/java" />
+    </root>
+  </artifact>
+</component>
